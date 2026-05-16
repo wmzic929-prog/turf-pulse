@@ -230,7 +230,7 @@
   document.getElementById('footer-year').textContent = new Date().getFullYear();
 
   // Load recent articles from blog-recent.json
-  fetch('/blog/blog-recent.json')
+  fetch('/data/blog-recent.json')
     .then(r => r.ok ? r.json() : null)
     .then(data => {
       if (!data || !data.articles || !data.articles.length) return;
