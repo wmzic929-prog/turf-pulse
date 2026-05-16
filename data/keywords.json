@@ -1,52 +1,456 @@
-[
-  {"id":1,"keyword":"如何解讀HKJC賠率波動？","category":"HKJC分析","angle":"疑問句型","image_theme":"HKJC horse racing odds fluctuation analysis","status":"available","writing_style":"學術分析師語氣，引用HKJC官方數據，800字"},
-  {"id":2,"keyword":"HKJC獨贏和位置賠率有什麼分別？","category":"HKJC分析","angle":"疑問句型","image_theme":"HKJC win place odds difference explanation","status":"available","writing_style":"概念解釋，適合初學者，750字"},
-  {"id":3,"keyword":"為什麼HKJC賠率在臨賽前大幅改變？","category":"HKJC分析","angle":"疑問句型","image_theme":"HKJC late odds change pre-race reason","status":"available","writing_style":"機制分析，含市場資金說明，800字"},
-  {"id":4,"keyword":"如何用馬匹往績預測今日表現？","category":"馬匹形態","angle":"疑問句型","image_theme":"horse racing form past performance prediction","status":"available","writing_style":"方法論框架，含評分指標，850字"},
-  {"id":5,"keyword":"點解某匹馬在跑馬地好過沙田？","category":"馬匹形態","angle":"疑問句型","image_theme":"Happy Valley vs Sha Tin horse preference","status":"available","writing_style":"場地分析，含統計佐證，800字"},
-  {"id":6,"keyword":"練馬師勝率如何影響選馬決策？","category":"騎師統計","angle":"疑問句型","image_theme":"racehorse trainer win rate selection decision","status":"available","writing_style":"統計分析，含歷史勝率數據，850字"},
-  {"id":7,"keyword":"騎師在賽馬分析中有多重要？","category":"騎師統計","angle":"疑問句型","image_theme":"jockey importance horse racing analysis","status":"available","writing_style":"量化分析，含騎師效應統計，800字"},
-  {"id":8,"keyword":"如何分析馬匹的負重對勝算的影響？","category":"馬匹形態","angle":"疑問句型","image_theme":"horse weight carried handicap effect","status":"available","writing_style":"技術分析，含負重換算說明，800字"},
-  {"id":9,"keyword":"沙田草地 vs 泥地：馬匹適應性怎麼看？","category":"場地分析","angle":"疑問句型","image_theme":"Sha Tin turf dirt track horse adaptability","status":"available","writing_style":"場地條件分析，含統計數據，800字"},
-  {"id":10,"keyword":"如何解讀賽馬出閘速度數據？","category":"HKJC分析","angle":"疑問句型","image_theme":"horse racing gate speed barrier trial data","status":"available","writing_style":"技術指標解讀，數據驅動，850字"},
-  {"id":11,"keyword":"HKJC賠率板上的「.」代表什麼？","category":"HKJC分析","angle":"疑問句型","image_theme":"HKJC odds board notation explanation","status":"available","writing_style":"術語解釋，適合新手，700字"},
-  {"id":12,"keyword":"馬匹休息期長短如何影響競賽狀態？","category":"馬匹形態","angle":"疑問句型","image_theme":"horse racing rest period fitness effect","status":"available","writing_style":"形態分析，含統計，800字"},
-  {"id":13,"keyword":"如何判斷馬匹是否適合短途或長途賽事？","category":"馬匹形態","angle":"疑問句型","image_theme":"horse racing distance suitability short long","status":"available","writing_style":"技術分析框架，800字"},
-  {"id":14,"keyword":"馬匹血統如何影響場地適應性？","category":"馬匹形態","angle":"疑問句型","image_theme":"horse bloodline track surface suitability","status":"available","writing_style":"血統分析，引用血緣數據，850字"},
-  {"id":15,"keyword":"賽馬分段時間怎麼分析？","category":"HKJC分析","angle":"疑問句型","image_theme":"horse racing sectional time analysis","status":"available","writing_style":"數據指標深度解讀，800字"},
-  {"id":16,"keyword":"如何從賽馬新聞解讀馬匹狀態信號？","category":"馬匹形態","angle":"疑問句型","image_theme":"horse racing news signals form reading","status":"available","writing_style":"新聞解讀技巧，800字"},
-  {"id":17,"keyword":"HKJC馬匹評分系統是怎麼計算的？","category":"HKJC分析","angle":"疑問句型","image_theme":"HKJC horse rating system calculation","status":"available","writing_style":"官方系統解讀，學術風格，850字"},
-  {"id":18,"keyword":"為什麼高評分馬不一定贏？","category":"HKJC分析","angle":"疑問句型","image_theme":"high rated horse not winning reasons","status":"available","writing_style":"批判性分析，含統計，800字"},
-  {"id":19,"keyword":"賽馬天氣條件如何影響泥地跑道？","category":"場地分析","angle":"疑問句型","image_theme":"horse racing weather wet track condition effect","status":"available","writing_style":"場地條件技術分析，800字"},
-  {"id":20,"keyword":"如何利用練馬師和騎師組合分析勝算？","category":"騎師統計","angle":"疑問句型","image_theme":"trainer jockey combination win rate analysis","status":"available","writing_style":"組合數據分析，850字"},
-  {"id":21,"keyword":"HKJC沙田練馬師近期勝率排名","category":"騎師統計","angle":"疑問句型","image_theme":"HKJC Sha Tin trainer win rate ranking","status":"available","writing_style":"數據報告格式，含排名表，800字"},
-  {"id":22,"keyword":"香港騎師聯賽積分榜與勝率統計","category":"騎師統計","angle":"疑問句型","image_theme":"hong kong jockey championship standings statistics","status":"available","writing_style":"統計報告，含歷史對比，800字"},
-  {"id":23,"keyword":"HKJC各路閘位勝率統計分析","category":"HKJC分析","angle":"疑問句型","image_theme":"HKJC barrier draw win rate statistics","status":"available","writing_style":"統計分析，含閘位數據表，850字"},
-  {"id":24,"keyword":"沙田vs跑馬地：哪個場地冷門更多？","category":"場地分析","angle":"疑問句型","image_theme":"Sha Tin Happy Valley upset frequency comparison","status":"available","writing_style":"統計比較，800字"},
-  {"id":25,"keyword":"不同距離賽事的賠率準確率分析","category":"HKJC分析","angle":"疑問句型","image_theme":"horse racing distance odds accuracy analysis","status":"available","writing_style":"量化分析，含距離分類數據，800字"},
-  {"id":26,"keyword":"香港賽馬場地條件評級系統解讀","category":"場地分析","angle":"疑問句型","image_theme":"hong kong racing track going rating system","status":"available","writing_style":"官方系統解讀，750字"},
-  {"id":27,"keyword":"練馬師在本場賽事的勝率如何計算？","category":"騎師統計","angle":"疑問句型","image_theme":"trainer win rate current meeting calculation","status":"available","writing_style":"計算方法說明，800字"},
-  {"id":28,"keyword":"賽馬體重增減與競賽表現的關係","category":"馬匹形態","angle":"疑問句型","image_theme":"horse weight change race performance correlation","status":"available","writing_style":"統計關聯分析，850字"},
-  {"id":29,"keyword":"HKJC公開賽和讓賽有什麼分別？","category":"HKJC分析","angle":"疑問句型","image_theme":"HKJC handicap open race difference","status":"available","writing_style":"分類解釋，750字"},
-  {"id":30,"keyword":"如何識別即場大戶入場的賠率信號？","category":"HKJC分析","angle":"疑問句型","image_theme":"horse racing late money smart money signal","status":"available","writing_style":"市場分析，謹慎用詞，850字"},
-  {"id":31,"keyword":"馬匹近況評估：五大關鍵指標解析","category":"馬匹形態","angle":"疑問句型","image_theme":"horse form assessment key indicators","status":"available","writing_style":"框架性教學，含指標清單，850字"},
-  {"id":32,"keyword":"賽馬分析工具推薦：免費vs付費比較","category":"場地分析","angle":"疑問句型","image_theme":"horse racing analysis tools free paid comparison","status":"available","writing_style":"工具評測，含功能對比，850字"},
-  {"id":33,"keyword":"練馬師轉戰紀錄對馬匹表現有影響嗎？","category":"騎師統計","angle":"疑問句型","image_theme":"trainer transfer horse performance effect","status":"available","writing_style":"統計分析，850字"},
-  {"id":34,"keyword":"如何分析馬匹的配件更換（眼罩/鼻帶）？","category":"馬匹形態","angle":"疑問句型","image_theme":"horse racing equipment change blinkers effect","status":"available","writing_style":"技術細節分析，800字"},
-  {"id":35,"keyword":"賽馬試閘成績如何預測正賽表現？","category":"馬匹形態","angle":"疑問句型","image_theme":"barrier trial results race performance prediction","status":"available","writing_style":"數據相關分析，850字"},
-  {"id":36,"keyword":"HKJC賽馬技術分析完整入門指南","category":"HKJC分析","angle":"教學攻略型","image_theme":"HKJC horse racing technical analysis beginner guide","status":"available","writing_style":"系統性教學，含評分框架，900字"},
-  {"id":37,"keyword":"馬匹形態評估自學指南","category":"馬匹形態","angle":"教學攻略型","image_theme":"horse form self study guide tutorial","status":"available","writing_style":"學習路徑說明，850字"},
-  {"id":38,"keyword":"閘位分析：如何善用賽道特性","category":"場地分析","angle":"教學攻略型","image_theme":"barrier draw analysis track layout","status":"available","writing_style":"技術教學，含閘位數據，800字"},
-  {"id":39,"keyword":"賽馬記錄分析工作表使用教學","category":"HKJC分析","angle":"教學攻略型","image_theme":"horse racing analysis worksheet tracking tutorial","status":"available","writing_style":"工具使用教學，800字"},
-  {"id":40,"keyword":"免責聲明：賽馬技術分析與負責任娛樂","category":"HKJC分析","angle":"教學攻略型","image_theme":"responsible gambling disclaimer horse racing","status":"available","writing_style":"合規聲明，教育性，700字"},
-  {"id":41,"keyword":"沙田賽季開鑼前瞻：本季值得關注的新馬","category":"賽事預測","angle":"時事賽事型","image_theme":"Sha Tin new season preview notable horses","status":"available","writing_style":"賽季前瞻，1000字"},
-  {"id":42,"keyword":"香港打吡大賽賠率分析","category":"賽事預測","angle":"時事賽事型","image_theme":"hong kong derby odds analysis preview","status":"available","writing_style":"重點賽事前瞻，900字"},
-  {"id":43,"keyword":"跑馬地夜賽本週焦點賽事分析","category":"賽事預測","angle":"時事賽事型","image_theme":"Happy Valley night meeting featured race analysis","status":"available","writing_style":"賽前分析格式，800字"},
-  {"id":44,"keyword":"HKJC冠軍錦標系列賽事前瞻","category":"賽事預測","angle":"時事賽事型","image_theme":"HKJC champions series race preview","status":"available","writing_style":"重點賽事分析，900字"},
-  {"id":45,"keyword":"香港國際賽馬2025年賠率走勢分析","category":"賽事預測","angle":"時事賽事型","image_theme":"hong kong international races 2025 odds trends","status":"available","writing_style":"重點賽事分析，900字"},
-  {"id":46,"keyword":"本季表現最佳練馬師技術統計","category":"騎師統計","angle":"疑問句型","image_theme":"top trainer this season statistics performance","status":"available","writing_style":"統計報告，800字"},
-  {"id":47,"keyword":"本季最出色騎師勝率數據分析","category":"騎師統計","angle":"疑問句型","image_theme":"top jockey this season win rate data analysis","status":"available","writing_style":"數據報告，800字"},
-  {"id":48,"keyword":"馬匹在特定場地的歷史表現如何查閱？","category":"HKJC分析","angle":"疑問句型","image_theme":"horse track specific historical form lookup","status":"available","writing_style":"數據查閱教學，750字"},
-  {"id":49,"keyword":"為什麼有馬在特定路程特別強？","category":"馬匹形態","angle":"疑問句型","image_theme":"horse distance preference specialist reason","status":"available","writing_style":"生理+技術分析，800字"},
-  {"id":50,"keyword":"賽馬配對問題：騎師與馬匹的默契如何衡量？","category":"騎師統計","angle":"疑問句型","image_theme":"jockey horse partnership compatibility measurement","status":"available","writing_style":"量化分析，含組合勝率，850字"}
-]
+{
+  "keywords": [
+    {
+      "id": 1,
+      "keyword": "如何解讀HKJC賠率波動？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "HKJC horse racing odds fluctuation analysis",
+      "status": "used",
+      "writing_style": "學術分析師語氣，引用HKJC官方數據，800字",
+      "slug": "hkjc-odds-fluctuation-guide",
+      "used_date": "2026-05-16"
+    },
+    {
+      "id": 2,
+      "keyword": "HKJC獨贏和位置賠率有什麼分別？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "HKJC win place odds difference explanation",
+      "status": "available",
+      "writing_style": "概念解釋，適合初學者，750字"
+    },
+    {
+      "id": 3,
+      "keyword": "為什麼HKJC賠率在臨賽前大幅改變？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "HKJC late odds change pre-race reason",
+      "status": "available",
+      "writing_style": "機制分析，含市場資金說明，800字"
+    },
+    {
+      "id": 4,
+      "keyword": "如何用馬匹往績預測今日表現？",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "horse racing form past performance prediction",
+      "status": "available",
+      "writing_style": "方法論框架，含評分指標，850字"
+    },
+    {
+      "id": 5,
+      "keyword": "點解某匹馬在跑馬地好過沙田？",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "Happy Valley vs Sha Tin horse preference",
+      "status": "available",
+      "writing_style": "場地分析，含統計佐證，800字"
+    },
+    {
+      "id": 6,
+      "keyword": "練馬師勝率如何影響選馬決策？",
+      "category": "騎師統計",
+      "angle": "疑問句型",
+      "image_theme": "racehorse trainer win rate selection decision",
+      "status": "available",
+      "writing_style": "統計分析，含歷史勝率數據，850字"
+    },
+    {
+      "id": 7,
+      "keyword": "騎師在賽馬分析中有多重要？",
+      "category": "騎師統計",
+      "angle": "疑問句型",
+      "image_theme": "jockey importance horse racing analysis",
+      "status": "available",
+      "writing_style": "量化分析，含騎師效應統計，800字"
+    },
+    {
+      "id": 8,
+      "keyword": "如何分析馬匹的負重對勝算的影響？",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "horse weight carried handicap effect",
+      "status": "available",
+      "writing_style": "技術分析，含負重換算說明，800字"
+    },
+    {
+      "id": 9,
+      "keyword": "沙田草地 vs 泥地：馬匹適應性怎麼看？",
+      "category": "場地分析",
+      "angle": "疑問句型",
+      "image_theme": "Sha Tin turf dirt track horse adaptability",
+      "status": "available",
+      "writing_style": "場地條件分析，含統計數據，800字"
+    },
+    {
+      "id": 10,
+      "keyword": "如何解讀賽馬出閘速度數據？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "horse racing gate speed barrier trial data",
+      "status": "available",
+      "writing_style": "技術指標解讀，數據驅動，850字"
+    },
+    {
+      "id": 11,
+      "keyword": "HKJC賠率板上的「.」代表什麼？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "HKJC odds board notation explanation",
+      "status": "available",
+      "writing_style": "術語解釋，適合新手，700字"
+    },
+    {
+      "id": 12,
+      "keyword": "馬匹休息期長短如何影響競賽狀態？",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "horse racing rest period fitness effect",
+      "status": "available",
+      "writing_style": "形態分析，含統計，800字"
+    },
+    {
+      "id": 13,
+      "keyword": "如何判斷馬匹是否適合短途或長途賽事？",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "horse racing distance suitability short long",
+      "status": "available",
+      "writing_style": "技術分析框架，800字"
+    },
+    {
+      "id": 14,
+      "keyword": "馬匹血統如何影響場地適應性？",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "horse bloodline track surface suitability",
+      "status": "available",
+      "writing_style": "血統分析，引用血緣數據，850字"
+    },
+    {
+      "id": 15,
+      "keyword": "賽馬分段時間怎麼分析？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "horse racing sectional time analysis",
+      "status": "available",
+      "writing_style": "數據指標深度解讀，800字"
+    },
+    {
+      "id": 16,
+      "keyword": "如何從賽馬新聞解讀馬匹狀態信號？",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "horse racing news signals form reading",
+      "status": "available",
+      "writing_style": "新聞解讀技巧，800字"
+    },
+    {
+      "id": 17,
+      "keyword": "HKJC馬匹評分系統是怎麼計算的？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "HKJC horse rating system calculation",
+      "status": "available",
+      "writing_style": "官方系統解讀，學術風格，850字"
+    },
+    {
+      "id": 18,
+      "keyword": "為什麼高評分馬不一定贏？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "high rated horse not winning reasons",
+      "status": "available",
+      "writing_style": "批判性分析，含統計，800字"
+    },
+    {
+      "id": 19,
+      "keyword": "賽馬天氣條件如何影響泥地跑道？",
+      "category": "場地分析",
+      "angle": "疑問句型",
+      "image_theme": "horse racing weather wet track condition effect",
+      "status": "available",
+      "writing_style": "場地條件技術分析，800字"
+    },
+    {
+      "id": 20,
+      "keyword": "如何利用練馬師和騎師組合分析勝算？",
+      "category": "騎師統計",
+      "angle": "疑問句型",
+      "image_theme": "trainer jockey combination win rate analysis",
+      "status": "available",
+      "writing_style": "組合數據分析，850字"
+    },
+    {
+      "id": 21,
+      "keyword": "HKJC沙田練馬師近期勝率排名",
+      "category": "騎師統計",
+      "angle": "疑問句型",
+      "image_theme": "HKJC Sha Tin trainer win rate ranking",
+      "status": "available",
+      "writing_style": "數據報告格式，含排名表，800字"
+    },
+    {
+      "id": 22,
+      "keyword": "香港騎師聯賽積分榜與勝率統計",
+      "category": "騎師統計",
+      "angle": "疑問句型",
+      "image_theme": "hong kong jockey championship standings statistics",
+      "status": "available",
+      "writing_style": "統計報告，含歷史對比，800字"
+    },
+    {
+      "id": 23,
+      "keyword": "HKJC各路閘位勝率統計分析",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "HKJC barrier draw win rate statistics",
+      "status": "available",
+      "writing_style": "統計分析，含閘位數據表，850字"
+    },
+    {
+      "id": 24,
+      "keyword": "沙田vs跑馬地：哪個場地冷門更多？",
+      "category": "場地分析",
+      "angle": "疑問句型",
+      "image_theme": "Sha Tin Happy Valley upset frequency comparison",
+      "status": "available",
+      "writing_style": "統計比較，800字"
+    },
+    {
+      "id": 25,
+      "keyword": "不同距離賽事的賠率準確率分析",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "horse racing distance odds accuracy analysis",
+      "status": "available",
+      "writing_style": "量化分析，含距離分類數據，800字"
+    },
+    {
+      "id": 26,
+      "keyword": "香港賽馬場地條件評級系統解讀",
+      "category": "場地分析",
+      "angle": "疑問句型",
+      "image_theme": "hong kong racing track going rating system",
+      "status": "available",
+      "writing_style": "官方系統解讀，750字"
+    },
+    {
+      "id": 27,
+      "keyword": "練馬師在本場賽事的勝率如何計算？",
+      "category": "騎師統計",
+      "angle": "疑問句型",
+      "image_theme": "trainer win rate current meeting calculation",
+      "status": "available",
+      "writing_style": "計算方法說明，800字"
+    },
+    {
+      "id": 28,
+      "keyword": "賽馬體重增減與競賽表現的關係",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "horse weight change race performance correlation",
+      "status": "available",
+      "writing_style": "統計關聯分析，850字"
+    },
+    {
+      "id": 29,
+      "keyword": "HKJC公開賽和讓賽有什麼分別？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "HKJC handicap open race difference",
+      "status": "available",
+      "writing_style": "分類解釋，750字"
+    },
+    {
+      "id": 30,
+      "keyword": "如何識別即場大戶入場的賠率信號？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "horse racing late money smart money signal",
+      "status": "available",
+      "writing_style": "市場分析，謹慎用詞，850字"
+    },
+    {
+      "id": 31,
+      "keyword": "馬匹近況評估：五大關鍵指標解析",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "horse form assessment key indicators",
+      "status": "available",
+      "writing_style": "框架性教學，含指標清單，850字"
+    },
+    {
+      "id": 32,
+      "keyword": "賽馬分析工具推薦：免費vs付費比較",
+      "category": "場地分析",
+      "angle": "疑問句型",
+      "image_theme": "horse racing analysis tools free paid comparison",
+      "status": "available",
+      "writing_style": "工具評測，含功能對比，850字"
+    },
+    {
+      "id": 33,
+      "keyword": "練馬師轉戰紀錄對馬匹表現有影響嗎？",
+      "category": "騎師統計",
+      "angle": "疑問句型",
+      "image_theme": "trainer transfer horse performance effect",
+      "status": "available",
+      "writing_style": "統計分析，850字"
+    },
+    {
+      "id": 34,
+      "keyword": "如何分析馬匹的配件更換（眼罩/鼻帶）？",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "horse racing equipment change blinkers effect",
+      "status": "available",
+      "writing_style": "技術細節分析，800字"
+    },
+    {
+      "id": 35,
+      "keyword": "賽馬試閘成績如何預測正賽表現？",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "barrier trial results race performance prediction",
+      "status": "available",
+      "writing_style": "數據相關分析，850字"
+    },
+    {
+      "id": 36,
+      "keyword": "HKJC賽馬技術分析完整入門指南",
+      "category": "HKJC分析",
+      "angle": "教學攻略型",
+      "image_theme": "HKJC horse racing technical analysis beginner guide",
+      "status": "available",
+      "writing_style": "系統性教學，含評分框架，900字"
+    },
+    {
+      "id": 37,
+      "keyword": "馬匹形態評估自學指南",
+      "category": "馬匹形態",
+      "angle": "教學攻略型",
+      "image_theme": "horse form self study guide tutorial",
+      "status": "available",
+      "writing_style": "學習路徑說明，850字"
+    },
+    {
+      "id": 38,
+      "keyword": "閘位分析：如何善用賽道特性",
+      "category": "場地分析",
+      "angle": "教學攻略型",
+      "image_theme": "barrier draw analysis track layout",
+      "status": "available",
+      "writing_style": "技術教學，含閘位數據，800字"
+    },
+    {
+      "id": 39,
+      "keyword": "賽馬記錄分析工作表使用教學",
+      "category": "HKJC分析",
+      "angle": "教學攻略型",
+      "image_theme": "horse racing analysis worksheet tracking tutorial",
+      "status": "available",
+      "writing_style": "工具使用教學，800字"
+    },
+    {
+      "id": 40,
+      "keyword": "免責聲明：賽馬技術分析與負責任娛樂",
+      "category": "HKJC分析",
+      "angle": "教學攻略型",
+      "image_theme": "responsible gambling disclaimer horse racing",
+      "status": "available",
+      "writing_style": "合規聲明，教育性，700字"
+    },
+    {
+      "id": 41,
+      "keyword": "沙田賽季開鑼前瞻：本季值得關注的新馬",
+      "category": "賽事預測",
+      "angle": "時事賽事型",
+      "image_theme": "Sha Tin new season preview notable horses",
+      "status": "available",
+      "writing_style": "賽季前瞻，1000字"
+    },
+    {
+      "id": 42,
+      "keyword": "香港打吡大賽賠率分析",
+      "category": "賽事預測",
+      "angle": "時事賽事型",
+      "image_theme": "hong kong derby odds analysis preview",
+      "status": "available",
+      "writing_style": "重點賽事前瞻，900字"
+    },
+    {
+      "id": 43,
+      "keyword": "跑馬地夜賽本週焦點賽事分析",
+      "category": "賽事預測",
+      "angle": "時事賽事型",
+      "image_theme": "Happy Valley night meeting featured race analysis",
+      "status": "available",
+      "writing_style": "賽前分析格式，800字"
+    },
+    {
+      "id": 44,
+      "keyword": "HKJC冠軍錦標系列賽事前瞻",
+      "category": "賽事預測",
+      "angle": "時事賽事型",
+      "image_theme": "HKJC champions series race preview",
+      "status": "available",
+      "writing_style": "重點賽事分析，900字"
+    },
+    {
+      "id": 45,
+      "keyword": "香港國際賽馬2025年賠率走勢分析",
+      "category": "賽事預測",
+      "angle": "時事賽事型",
+      "image_theme": "hong kong international races 2025 odds trends",
+      "status": "available",
+      "writing_style": "重點賽事分析，900字"
+    },
+    {
+      "id": 46,
+      "keyword": "本季表現最佳練馬師技術統計",
+      "category": "騎師統計",
+      "angle": "疑問句型",
+      "image_theme": "top trainer this season statistics performance",
+      "status": "available",
+      "writing_style": "統計報告，800字"
+    },
+    {
+      "id": 47,
+      "keyword": "本季最出色騎師勝率數據分析",
+      "category": "騎師統計",
+      "angle": "疑問句型",
+      "image_theme": "top jockey this season win rate data analysis",
+      "status": "available",
+      "writing_style": "數據報告，800字"
+    },
+    {
+      "id": 48,
+      "keyword": "馬匹在特定場地的歷史表現如何查閱？",
+      "category": "HKJC分析",
+      "angle": "疑問句型",
+      "image_theme": "horse track specific historical form lookup",
+      "status": "available",
+      "writing_style": "數據查閱教學，750字"
+    },
+    {
+      "id": 49,
+      "keyword": "為什麼有馬在特定路程特別強？",
+      "category": "馬匹形態",
+      "angle": "疑問句型",
+      "image_theme": "horse distance preference specialist reason",
+      "status": "available",
+      "writing_style": "生理+技術分析，800字"
+    },
+    {
+      "id": 50,
+      "keyword": "賽馬配對問題：騎師與馬匹的默契如何衡量？",
+      "category": "騎師統計",
+      "angle": "疑問句型",
+      "image_theme": "jockey horse partnership compatibility measurement",
+      "status": "available",
+      "writing_style": "量化分析，含組合勝率，850字"
+    }
+  ]
+}
