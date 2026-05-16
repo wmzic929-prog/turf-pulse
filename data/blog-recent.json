@@ -1,3 +1,12 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "slug": "hkjc-odds-fluctuation-guide",
+      "title": "如何解讀HKJC賠率波動？馬迷必學嘅賽前分析技巧",
+      "category": "HKJC分析",
+      "date": "2026-05-16",
+      "excerpt": "賠率喺開賽前最後15分鐘急插，係香港賽馬界公認最值得關注嘅資金流入信號，唔少馬迷卻係忽略咗佢背後嘅深層意義。",
+      "imageUrl": "https://pixabay.com/get/gc0a85714f65485daea09681e6a2918e0eeb74685de2172a98490332fe570b1eabd7e0746dcba3070a6557d1cae7179bf27de20f668f2f50929fd4a33695b2cab_640.jpg"
+    }
+  ]
 }
