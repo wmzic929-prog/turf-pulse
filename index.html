@@ -251,7 +251,7 @@
             <div class="card-body">
               <div class="card-meta"><span class="tag tag-${(i%5)+1}">${a.category || '攻略'}</span></div>
               <a href="/blog/${a.slug}" class="card-title">${a.title}</a>
-              <p class="card-excerpt">${a.metaDesc || ''}</p>
+              <p class="card-excerpt">${a.excerpt || a.metaDesc || ''}</p>
               <div class="card-footer">
                 <span>${a.date || ''}</span>
                 <a href="/blog/${a.slug}" style="color:var(--clr-accent);font-weight:700;font-size:12px;">閱讀全文 →</a>
@@ -271,7 +271,7 @@
           </div>`).join('');
         if (articles[0]) {
           document.getElementById('hero-title').textContent = articles[0].title;
-          document.getElementById('hero-excerpt').textContent = articles[0].metaDesc || '';
+          document.getElementById('hero-excerpt').textContent = articles[0].excerpt || articles[0].metaDesc || '';
           if (articles[0].category) document.getElementById('hero-cat').textContent = articles[0].category;
           if (articles[0].date) document.getElementById('hero-date').textContent = articles[0].date;
         }
