@@ -28,8 +28,10 @@
       "category": "HKJC分析",
       "angle": "疑問句型",
       "image_theme": "HKJC late odds change pre-race reason",
-      "status": "available",
-      "writing_style": "機制分析，含市場資金說明，800字"
+      "status": "used",
+      "writing_style": "機制分析，含市場資金說明，800字",
+      "slug": "hkjc-odds-pre-race-changes",
+      "used_date": "2026-05-19"
     },
     {
       "id": 4,
