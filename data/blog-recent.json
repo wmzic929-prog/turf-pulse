@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "horse-form-prediction-guide",
+      "title": "馬匹往績：解讀數據預測勝負關鍵，提升命中率！",
+      "category": "馬匹形態",
+      "date": "2026-05-20",
+      "excerpt": "每次睇住馬匹往績報告，你係咪都諗，到底點樣先可以從海量數據中，搵到今日贏馬嘅線索？我哋一齊拆解！",
+      "imageUrl": "https://pixabay.com/get/g7f818d1994e6f1c659e17c7ef14482fbd9f99f1fa76316191e5dca209757d61bee77fb938ab32545d880469f15d529e4809211c3e02d826c0f855adf2edfa969_640.jpg"
+    },
+    {
       "slug": "hkjc-odds-pre-race-changes",
       "title": "HKJC賠率臨場大變？拆解香港賽馬賠率變動背後玄機",
       "category": "HKJC分析",
@@ -15,14 +23,6 @@
       "date": "2026-05-18",
       "excerpt": "我之前都唔明，點解同一匹馬，獨贏同位置嘅賠率可以差咁遠？原來背後有個好重要嘅邏輯，搞清楚先至可以玩得更精明。",
       "imageUrl": "https://pixabay.com/get/gef73c3c3dd7d8397655fa1b542d16b26003b11f61203307bc08a433bead3d1363c4e5cc93abe0c5796e9429cd92ad683760289a1cb3fd502bed4b278cf13a98e_640.jpg"
-    },
-    {
-      "slug": "hkjc-odds-fluctuation-guide",
-      "title": "如何解讀HKJC賠率波動？馬迷必學嘅賽前分析技巧",
-      "category": "HKJC分析",
-      "date": "2026-05-16",
-      "excerpt": "賠率喺開賽前最後15分鐘急插，係香港賽馬界公認最值得關注嘅資金流入信號，唔少馬迷卻係忽略咗佢背後嘅深層意義。",
-      "imageUrl": "https://pixabay.com/get/gc0a85714f65485daea09681e6a2918e0eeb74685de2172a98490332fe570b1eabd7e0746dcba3070a6557d1cae7179bf27de20f668f2f50929fd4a33695b2cab_640.jpg"
     }
   ]
 }
