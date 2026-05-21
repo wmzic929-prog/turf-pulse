@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-21",
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/ga774958eb697d5d47104cbeebbb96b1ff0464bf29c48bbf9dfdf43b6b9b89e14caab846c3b361c08ba9946a54226f28e121ae8ec9aebe75ee074b9eaef1215b8_640.jpg"
+    },
+    {
       "slug": "horse-form-prediction-guide",
       "title": "馬匹往績：解讀數據預測勝負關鍵，提升命中率！",
       "category": "馬匹形態",
@@ -15,14 +23,6 @@
       "date": "2026-05-19",
       "excerpt": "喂，各位馬迷！有無試過臨開跑前，見到HKJC賠率突然大上大落，心都離一離？我明你感受，真係好影響投注決定！",
       "imageUrl": "/blog/img/hkjc-odds-pre-race-changes.jpg"
-    },
-    {
-      "slug": "hkjc-win-place-odds-difference",
-      "title": "HKJC獨贏同位置賠率有咩分別？新手馬迷完整解析",
-      "category": "HKJC分析",
-      "date": "2026-05-18",
-      "excerpt": "我之前都唔明，點解同一匹馬，獨贏同位置嘅賠率可以差咁遠？原來背後有個好重要嘅邏輯，搞清楚先至可以玩得更精明。",
-      "imageUrl": "/blog/img/hkjc-win-place-odds-difference.jpg"
     }
   ]
 }
