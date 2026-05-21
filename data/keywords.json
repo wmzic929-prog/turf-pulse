@@ -50,8 +50,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "Happy Valley vs Sha Tin horse preference",
-      "status": "available",
-      "writing_style": "場地分析，含統計佐證，800字"
+      "status": "used",
+      "writing_style": "場地分析，含統計佐證，800字",
+      "slug": "article",
+      "used_date": "2026-05-21"
     },
     {
       "id": 6,
