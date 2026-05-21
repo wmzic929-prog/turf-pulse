@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "hkjc-odds-fluctuation-analysis",
+      "title": "香港賽馬賠率波動解讀：洞悉莊家意圖與投注策略",
+      "category": "HKJC分析",
+      "date": "2026-05-21",
+      "excerpt": "每次落注前，見到HKJC賠率上上落落，你係咪都好想知背後有咩玄機？我哋一齊拆解！",
+      "imageUrl": "https://pixabay.com/get/gdd0cffec7b23a2653064b4a0f79a9f12d4888dcbd16a688925bbf9e85c4aad2b9fb8924eb125b70a404a313d530e331f6ddcb827fa62a9591a173f61654756d2_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
@@ -15,14 +23,6 @@
       "date": "2026-05-20",
       "excerpt": "每次睇住馬匹往績報告，你係咪都諗，到底點樣先可以從海量數據中，搵到今日贏馬嘅線索？我哋一齊拆解！",
       "imageUrl": "/blog/img/horse-form-prediction-guide.jpg"
-    },
-    {
-      "slug": "hkjc-odds-pre-race-changes",
-      "title": "HKJC賠率臨場大變？拆解香港賽馬賠率變動背後玄機",
-      "category": "HKJC分析",
-      "date": "2026-05-19",
-      "excerpt": "喂，各位馬迷！有無試過臨開跑前，見到HKJC賠率突然大上大落，心都離一離？我明你感受，真係好影響投注決定！",
-      "imageUrl": "/blog/img/hkjc-odds-pre-race-changes.jpg"
     }
   ]
 }
