@@ -39,8 +39,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "horse racing form past performance prediction",
-      "status": "available",
-      "writing_style": "方法論框架，含評分指標，850字"
+      "status": "used",
+      "writing_style": "方法論框架，含評分指標，850字",
+      "slug": "hong-kong-horse-form-prediction-guide",
+      "used_date": "2026-05-22"
     },
     {
       "id": 5,
