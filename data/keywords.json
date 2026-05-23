@@ -72,8 +72,10 @@
       "category": "騎師統計",
       "angle": "疑問句型",
       "image_theme": "jockey importance horse racing analysis",
-      "status": "available",
-      "writing_style": "量化分析，含騎師效應統計，800字"
+      "status": "used",
+      "writing_style": "量化分析，含騎師效應統計，800字",
+      "slug": "jockey-impact-race-analysis",
+      "used_date": "2026-05-23"
     },
     {
       "id": 8,
