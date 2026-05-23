@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "trainer-win-rate-horse-selection-strategy",
+      "title": "練馬師勝率點影響你揀馬？數據分析助你提升命中率",
+      "category": "騎師統計",
+      "date": "2026-05-23",
+      "excerpt": "每次揀馬，你係咪都會猶豫練馬師表現？我哋都試過！今日就同你拆解練馬師勝率背後嘅秘密，幫你選馬更有信心。",
+      "imageUrl": "https://pixabay.com/get/ged860609dd4847813fd3bd966a952e39179cc888f0a4754cb67561194f56df2c8e56d6c7e92e98068c5c43afcef7c47434a8eacf3740ebf7f5ef0e23aab2443f_640.jpg"
+    },
+    {
       "slug": "happy-valley-vs-sha-tin-horse-performance",
       "title": "跑馬地馬王點解沙田唔掂？場地特性深度分析",
       "category": "馬匹形態",
@@ -15,14 +23,6 @@
       "date": "2026-05-22",
       "excerpt": "每次買馬都想贏？我哋馬迷最關心嘅，梗係點樣從馬匹往績搵出致勝玄機啦！今日就同大家拆解！",
       "imageUrl": "https://pixabay.com/get/g74663a645d336e2ef17014d98f9395a19fe32a1730a932997a0b5f6f4d9981f0e2b7c21f9a3ba54280f00a09e381ca4dd867e8b5de5b2fbbd4b8134261fdda23_640.jpg"
-    },
-    {
-      "slug": "hkjc-odds-pre-race-fluctuation-mystery",
-      "title": "賽前賠率異動解密：港馬迷必讀賠率分析",
-      "category": "HKJC分析",
-      "date": "2026-05-22",
-      "excerpt": "每次臨近開跑，見到HKJC賠率突然急升急跌，你係咪都好想知到底發生咩事？我身為資深馬迷，深明呢種疑惑！",
-      "imageUrl": "https://pixabay.com/get/g98802335ff78a02f80de598cfe4d56d88c726e1c89e8c860fe0f284ba449ac98d8b69a1be917278157021b08d454304f9af79f5bf99f28367102658ccceb97a0_640.jpg"
     }
   ]
 }
