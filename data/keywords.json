@@ -94,8 +94,10 @@
       "category": "場地分析",
       "angle": "疑問句型",
       "image_theme": "Sha Tin turf dirt track horse adaptability",
-      "status": "available",
-      "writing_style": "場地條件分析，含統計數據，800字"
+      "status": "used",
+      "writing_style": "場地條件分析，含統計數據，800字",
+      "slug": "article",
+      "used_date": "2026-05-24"
     },
     {
       "id": 10,
