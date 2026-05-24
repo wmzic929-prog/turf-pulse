@@ -83,8 +83,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "horse weight carried handicap effect",
-      "status": "available",
-      "writing_style": "技術分析，含負重換算說明，800字"
+      "status": "used",
+      "writing_style": "技術分析，含負重換算說明，800字",
+      "slug": "horse-weight-impact-winning-chances",
+      "used_date": "2026-05-24"
     },
     {
       "id": 9,
