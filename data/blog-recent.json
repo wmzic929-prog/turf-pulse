@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-24",
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/gfe5085c66d6777c298ac755874fafe0097cda4a65313fa8faa3f8206b19146295506b02ea12841e82197c722747256791c58555cf087d2e371e4c10e566e69b5_640.jpg"
+    },
+    {
       "slug": "horse-weight-impact-winning-chances",
       "title": "馬匹負重如何影響勝算？香港賽馬負磅深度分析 | Turf Pulse",
       "category": "馬匹形態",
@@ -15,14 +23,6 @@
       "date": "2026-05-23",
       "excerpt": "我哋成日講馬匹狀態，但有無諗過，騎師其實都係左右賽果嘅關鍵人物？佢哋嘅表現，真係可以直接影響你贏定輸！",
       "imageUrl": "https://pixabay.com/get/ge16b8b0f2ebfe0b3e256b49b5caf0fa7296d9dd9387f5c9e22fdf6bcb20d47676c0672ae466a27581dc1ebb131d2b1340b615a523b9f616f745853aac5836cd4_640.jpg"
-    },
-    {
-      "slug": "trainer-win-rate-horse-selection-strategy",
-      "title": "練馬師勝率點影響你揀馬？數據分析助你提升命中率",
-      "category": "騎師統計",
-      "date": "2026-05-23",
-      "excerpt": "每次揀馬，你係咪都會猶豫練馬師表現？我哋都試過！今日就同你拆解練馬師勝率背後嘅秘密，幫你選馬更有信心。",
-      "imageUrl": "https://pixabay.com/get/ged860609dd4847813fd3bd966a952e39179cc888f0a4754cb67561194f56df2c8e56d6c7e92e98068c5c43afcef7c47434a8eacf3740ebf7f5ef0e23aab2443f_640.jpg"
     }
   ]
 }
