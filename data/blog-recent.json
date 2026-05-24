@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "horse-weight-impact-winning-chances",
+      "title": "馬匹負重如何影響勝算？香港賽馬負磅深度分析 | Turf Pulse",
+      "category": "馬匹形態",
+      "date": "2026-05-24",
+      "excerpt": "每次睇馬，我都好糾結馬匹嘅負重究竟係咪勝負關鍵。到底加磅減磅，對馬匹表現有幾大影響，真係令人又愛又恨！",
+      "imageUrl": "https://pixabay.com/get/gaea441005ccd43808a71f5b86f10657bfc46dc4e7057cda49bd5a9c1540022d7867833fdf38ae99adce965c9d3779c2286cd8deb78215d1f34f88f8a48c11817_640.jpg"
+    },
+    {
       "slug": "jockey-impact-race-analysis",
       "title": "騎師重要性分析：點解佢哋係賽馬致勝關鍵？",
       "category": "騎師統計",
@@ -15,14 +23,6 @@
       "date": "2026-05-23",
       "excerpt": "每次揀馬，你係咪都會猶豫練馬師表現？我哋都試過！今日就同你拆解練馬師勝率背後嘅秘密，幫你選馬更有信心。",
       "imageUrl": "https://pixabay.com/get/ged860609dd4847813fd3bd966a952e39179cc888f0a4754cb67561194f56df2c8e56d6c7e92e98068c5c43afcef7c47434a8eacf3740ebf7f5ef0e23aab2443f_640.jpg"
-    },
-    {
-      "slug": "happy-valley-vs-sha-tin-horse-performance",
-      "title": "跑馬地馬王點解沙田唔掂？場地特性深度分析",
-      "category": "馬匹形態",
-      "date": "2026-05-23",
-      "excerpt": "我哋成日都見到有啲馬喺跑馬地威到盡，但一去到沙田就腳軟，究竟搞乜鬼？",
-      "imageUrl": "https://pixabay.com/get/g6bd02f418440e1533634a3b49957b7d1ddb265ef048e4861d137fb8fcd0a8cadafc4f15c9f666c6b6bf93534d86bafeea290b82a04b7fc809096f81505b00f53_640.jpg"
     }
   ]
 }
