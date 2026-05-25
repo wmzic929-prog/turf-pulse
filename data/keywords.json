@@ -94,10 +94,8 @@
       "category": "場地分析",
       "angle": "疑問句型",
       "image_theme": "Sha Tin turf dirt track horse adaptability",
-      "status": "used",
-      "writing_style": "場地條件分析，含統計數據，800字",
-      "slug": "article",
-      "used_date": "2026-05-24"
+      "status": "available",
+      "writing_style": "場地條件分析，含統計數據，800字"
     },
     {
       "id": 10,
@@ -127,10 +125,8 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "horse racing rest period fitness effect",
-      "status": "used",
-      "writing_style": "形態分析，含統計，800字",
-      "slug": "article-12",
-      "used_date": "2026-05-25"
+      "status": "available",
+      "writing_style": "形態分析，含統計，800字"
     },
     {
       "id": 13,
