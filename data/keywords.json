@@ -116,8 +116,10 @@
       "category": "HKJC分析",
       "angle": "疑問句型",
       "image_theme": "HKJC odds board notation explanation",
-      "status": "available",
-      "writing_style": "術語解釋，適合新手，700字"
+      "status": "used",
+      "writing_style": "術語解釋，適合新手，700字",
+      "slug": "hkjc-odds-board-dot-meaning",
+      "used_date": "2026-05-25"
     },
     {
       "id": 12,
