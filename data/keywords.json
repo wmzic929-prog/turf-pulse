@@ -127,8 +127,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "horse racing rest period fitness effect",
-      "status": "available",
-      "writing_style": "形態分析，含統計，800字"
+      "status": "used",
+      "writing_style": "形態分析，含統計，800字",
+      "slug": "article-12",
+      "used_date": "2026-05-25"
     },
     {
       "id": 13,
