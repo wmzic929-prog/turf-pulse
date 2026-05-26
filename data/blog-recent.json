@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "hkjc-sectional-times-analysis",
+      "title": "馬匹分段時間點分析？HKJC賽馬技術剖析",
+      "category": "HKJC分析",
+      "date": "2026-05-26",
+      "excerpt": "作為資深馬迷，我深明分段時間係拆解賽事密碼嘅關鍵！掌握佢，你嘅分析功力即刻大躍進。",
+      "imageUrl": "/blog/img/hkjc-sectional-times-analysis.jpg"
+    },
+    {
       "slug": "horse-pedigree-track-adaptability",
       "title": "馬匹血統與場地適應性：香港賽馬獨家分析",
       "category": "馬匹形態",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "我哋馬迷最常問：「呢隻馬究竟跑短途定長途好？」判斷馬匹嘅路程潛力，其實背後大有學問！",
       "imageUrl": "/blog/img/how-to-determine-horse-short-long-distance-potential.jpg"
-    },
-    {
-      "slug": "horse-rest-period-racing-performance-analysis",
-      "title": "馬匹休息期長短如何影響競賽狀態？深度分析與預測",
-      "category": "馬匹形態",
-      "date": "2026-05-26",
-      "excerpt": "每次見到心水馬久休復出，我哋馬迷最關心嘅，就係佢休息期長短會點樣影響今場表現？",
-      "imageUrl": "/blog/img/horse-rest-period-racing-performance-analysis.jpg"
     }
   ]
 }
