@@ -138,8 +138,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "horse racing distance suitability short long",
-      "status": "available",
-      "writing_style": "技術分析框架，800字"
+      "status": "used",
+      "writing_style": "技術分析框架，800字",
+      "slug": "how-to-determine-horse-short-long-distance-potential",
+      "used_date": "2026-05-26"
     },
     {
       "id": 14,
