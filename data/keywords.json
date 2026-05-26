@@ -160,8 +160,10 @@
       "category": "HKJC分析",
       "angle": "疑問句型",
       "image_theme": "horse racing sectional time analysis",
-      "status": "available",
-      "writing_style": "數據指標深度解讀，800字"
+      "status": "used",
+      "writing_style": "數據指標深度解讀，800字",
+      "slug": "hkjc-sectional-times-analysis",
+      "used_date": "2026-05-26"
     },
     {
       "id": 16,
