@@ -193,8 +193,10 @@
       "category": "HKJC分析",
       "angle": "疑問句型",
       "image_theme": "high rated horse not winning reasons",
-      "status": "available",
-      "writing_style": "批判性分析，含統計，800字"
+      "status": "used",
+      "writing_style": "批判性分析，含統計，800字",
+      "slug": "why-high-rated-horses-dont-always-win",
+      "used_date": "2026-05-26"
     },
     {
       "id": 19,
