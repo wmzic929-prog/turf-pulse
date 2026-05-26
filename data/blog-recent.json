@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "sha-tin-turf-all-weather-horse-adaptation-analysis",
+      "title": "沙田草地泥地適應性：馬匹表現點樣分析至準確？",
+      "category": "場地分析",
+      "date": "2026-05-26",
+      "excerpt": "我哋馬迷最常問，究竟隻馬跑草地定泥地叻啲？呢個問題真係考起唔少人！",
+      "imageUrl": "/blog/img/sha-tin-turf-all-weather-horse-adaptation-analysis.jpg"
+    },
+    {
       "slug": "horse-weight-impact-winning-chances",
       "title": "馬匹負重如何影響勝算？香港賽馬負磅深度分析",
       "category": "馬匹形態",
@@ -15,14 +23,6 @@
       "date": "2026-05-25",
       "excerpt": "每次望住HKJC賠率板，你係咪都好奇個「.」符號究竟代表乜？我曾經都係咁，但搞清楚之後，我嘅投注策略即刻清晰晒！",
       "imageUrl": "/blog/img/hkjc-odds-board-dot-meaning.jpg"
-    },
-    {
-      "slug": "horse-racing-gate-speed-data-analysis",
-      "title": "賽馬出閘速度數據點解讀？獨家分析助你贏馬",
-      "category": "HKJC分析",
-      "date": "2026-05-24",
-      "excerpt": "每次望住賽馬數據，你係咪都對出閘速度一頭霧水？今日我哋就嚟拆解呢個關鍵指標，等你睇馬更精明！",
-      "imageUrl": "/blog/img/horse-racing-gate-speed-data-analysis.jpg"
     }
   ]
 }
