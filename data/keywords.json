@@ -204,8 +204,10 @@
       "category": "場地分析",
       "angle": "疑問句型",
       "image_theme": "horse racing weather wet track condition effect",
-      "status": "available",
-      "writing_style": "場地條件技術分析，800字"
+      "status": "used",
+      "writing_style": "場地條件技術分析，800字",
+      "slug": "weather-impact-dirt-tracks-hk-racing",
+      "used_date": "2026-05-26"
     },
     {
       "id": 20,
