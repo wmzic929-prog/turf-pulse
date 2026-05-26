@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "horse-pedigree-track-adaptability",
+      "title": "馬匹血統與場地適應性：香港賽馬獨家分析",
+      "category": "馬匹形態",
+      "date": "2026-05-26",
+      "excerpt": "每次睇馬，我都會諗，點解有啲馬跑泥地特別勁，有啲就草地專家？血統真係咁關鍵？",
+      "imageUrl": "/blog/img/horse-pedigree-track-adaptability.jpg"
+    },
+    {
       "slug": "how-to-determine-horse-short-long-distance-potential",
       "title": "判斷賽馬短途或長途潛力：形態、血統與數據分析",
       "category": "馬匹形態",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "每次見到心水馬久休復出，我哋馬迷最關心嘅，就係佢休息期長短會點樣影響今場表現？",
       "imageUrl": "/blog/img/horse-rest-period-racing-performance-analysis.jpg"
-    },
-    {
-      "slug": "sha-tin-turf-all-weather-horse-adaptation-analysis",
-      "title": "沙田草地泥地適應性：馬匹表現點樣分析至準確？",
-      "category": "場地分析",
-      "date": "2026-05-26",
-      "excerpt": "我哋馬迷最常問，究竟隻馬跑草地定泥地叻啲？呢個問題真係考起唔少人！",
-      "imageUrl": "/blog/img/sha-tin-turf-all-weather-horse-adaptation-analysis.jpg"
     }
   ]
 }
