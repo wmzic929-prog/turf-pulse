@@ -171,8 +171,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "horse racing news signals form reading",
-      "status": "available",
-      "writing_style": "新聞解讀技巧，800字"
+      "status": "used",
+      "writing_style": "新聞解讀技巧，800字",
+      "slug": "deciphering-race-horse-form-signals",
+      "used_date": "2026-05-26"
     },
     {
       "id": 17,
