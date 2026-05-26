@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "hkjc-horse-rating-system-calculation",
+      "title": "HKJC馬匹評分點計？深入拆解評分機制與策略",
+      "category": "HKJC分析",
+      "date": "2026-05-26",
+      "excerpt": "每次睇跑馬，總係聽到馬評人講「匹馬升咗分，下次難跑啲」，究竟香港賽馬會嘅馬匹評分系統點樣計出嚟？真係令我哋馬迷又愛又恨！",
+      "imageUrl": "/blog/img/hkjc-horse-rating-system-calculation.jpg"
+    },
+    {
       "slug": "deciphering-race-horse-form-signals",
       "title": "賽馬新聞解讀馬匹狀態信號：練馬師、騎師數據點睇？",
       "category": "馬匹形態",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "作為資深馬迷，我深明分段時間係拆解賽事密碼嘅關鍵！掌握佢，你嘅分析功力即刻大躍進。",
       "imageUrl": "/blog/img/hkjc-sectional-times-analysis.jpg"
-    },
-    {
-      "slug": "horse-pedigree-track-adaptability",
-      "title": "馬匹血統與場地適應性：香港賽馬獨家分析",
-      "category": "馬匹形態",
-      "date": "2026-05-26",
-      "excerpt": "每次睇馬，我都會諗，點解有啲馬跑泥地特別勁，有啲就草地專家？血統真係咁關鍵？",
-      "imageUrl": "/blog/img/horse-pedigree-track-adaptability.jpg"
     }
   ]
 }
