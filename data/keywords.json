@@ -182,8 +182,10 @@
       "category": "HKJC分析",
       "angle": "疑問句型",
       "image_theme": "HKJC horse rating system calculation",
-      "status": "available",
-      "writing_style": "官方系統解讀，學術風格，850字"
+      "status": "used",
+      "writing_style": "官方系統解讀，學術風格，850字",
+      "slug": "hkjc-horse-rating-system-calculation",
+      "used_date": "2026-05-26"
     },
     {
       "id": 18,
