@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "weather-impact-dirt-tracks-hk-racing",
+      "title": "泥地跑道與天氣：香港賽馬場地分析全攻略",
+      "category": "場地分析",
+      "date": "2026-05-26",
+      "excerpt": "作為資深馬迷，我深知天氣對泥地跑道嘅影響係賽馬分析嘅重中之重，究竟佢點樣左右戰局呢？",
+      "imageUrl": "/blog/img/weather-impact-dirt-tracks-hk-racing.jpg"
+    },
+    {
       "slug": "why-high-rated-horses-dont-always-win",
       "title": "高評分馬點解唔一定贏？HKJC賽馬分析深度拆解",
       "category": "HKJC分析",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "每次睇跑馬，總係聽到馬評人講「匹馬升咗分，下次難跑啲」，究竟香港賽馬會嘅馬匹評分系統點樣計出嚟？真係令我哋馬迷又愛又恨！",
       "imageUrl": "/blog/img/hkjc-horse-rating-system-calculation.jpg"
-    },
-    {
-      "slug": "deciphering-race-horse-form-signals",
-      "title": "賽馬新聞解讀馬匹狀態信號：練馬師、騎師數據點睇？",
-      "category": "馬匹形態",
-      "date": "2026-05-26",
-      "excerpt": "每次睇賽馬新聞，都好想知隻馬究竟係咪真係弗？究竟有咩信號可以幫我哋捉到隻馬嘅真正狀態？",
-      "imageUrl": "/blog/img/deciphering-race-horse-form-signals.jpg"
     }
   ]
 }
