@@ -149,8 +149,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "horse bloodline track surface suitability",
-      "status": "available",
-      "writing_style": "血統分析，引用血緣數據，850字"
+      "status": "used",
+      "writing_style": "血統分析，引用血緣數據，850字",
+      "slug": "horse-pedigree-track-adaptability",
+      "used_date": "2026-05-26"
     },
     {
       "id": 15,
