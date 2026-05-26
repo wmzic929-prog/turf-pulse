@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "why-high-rated-horses-dont-always-win",
+      "title": "高評分馬點解唔一定贏？HKJC賽馬分析深度拆解",
+      "category": "HKJC分析",
+      "date": "2026-05-26",
+      "excerpt": "我哋成日以為評分高就穩贏，但事實往往出人意表，究竟背後有咩玄機？",
+      "imageUrl": "/blog/img/why-high-rated-horses-dont-always-win.jpg"
+    },
+    {
       "slug": "hkjc-horse-rating-system-calculation",
       "title": "HKJC馬匹評分點計？深入拆解評分機制與策略",
       "category": "HKJC分析",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "每次睇賽馬新聞，都好想知隻馬究竟係咪真係弗？究竟有咩信號可以幫我哋捉到隻馬嘅真正狀態？",
       "imageUrl": "/blog/img/deciphering-race-horse-form-signals.jpg"
-    },
-    {
-      "slug": "hkjc-sectional-times-analysis",
-      "title": "馬匹分段時間點分析？HKJC賽馬技術剖析",
-      "category": "HKJC分析",
-      "date": "2026-05-26",
-      "excerpt": "作為資深馬迷，我深明分段時間係拆解賽事密碼嘅關鍵！掌握佢，你嘅分析功力即刻大躍進。",
-      "imageUrl": "/blog/img/hkjc-sectional-times-analysis.jpg"
     }
   ]
 }
