@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "sha-tin-trainer-recent-win-rate-ranking",
+      "title": "沙田練馬師近期勝率排名：投注分析必讀攻略！",
+      "category": "騎師統計",
+      "date": "2026-05-27",
+      "excerpt": "每次沙田賽事，我都好想知邊個練馬師狀態最火熱，因為佢哋嘅表現真係直接影響我哋嘅投注決定！",
+      "imageUrl": "/blog/img/sha-tin-trainer-recent-win-rate-ranking.jpg"
+    },
+    {
       "slug": "hk-trainer-jockey-win-chance-analysis",
       "title": "練馬師騎師組合點樣影響勝算？香港賽馬獨家分析",
       "category": "騎師統計",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "作為資深馬迷，我深知天氣對泥地跑道嘅影響係賽馬分析嘅重中之重，究竟佢點樣左右戰局呢？",
       "imageUrl": "/blog/img/weather-impact-dirt-tracks-hk-racing.jpg"
-    },
-    {
-      "slug": "why-high-rated-horses-dont-always-win",
-      "title": "高評分馬點解唔一定贏？HKJC賽馬分析深度拆解",
-      "category": "HKJC分析",
-      "date": "2026-05-26",
-      "excerpt": "我哋成日以為評分高就穩贏，但事實往往出人意表，究竟背後有咩玄機？",
-      "imageUrl": "/blog/img/why-high-rated-horses-dont-always-win.jpg"
     }
   ]
 }
