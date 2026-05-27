@@ -237,8 +237,10 @@
       "category": "騎師統計",
       "angle": "疑問句型",
       "image_theme": "hong kong jockey championship standings statistics",
-      "status": "available",
-      "writing_style": "統計報告，含歷史對比，800字"
+      "status": "used",
+      "writing_style": "統計報告，含歷史對比，800字",
+      "slug": "article-22",
+      "used_date": "2026-05-27"
     },
     {
       "id": 23,
