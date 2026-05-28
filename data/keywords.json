@@ -259,8 +259,10 @@
       "category": "場地分析",
       "angle": "疑問句型",
       "image_theme": "Sha Tin Happy Valley upset frequency comparison",
-      "status": "available",
-      "writing_style": "統計比較，800字"
+      "status": "used",
+      "writing_style": "統計比較，800字",
+      "slug": "shatin-vs-happy-valley-upsets",
+      "used_date": "2026-05-28"
     },
     {
       "id": 25,
