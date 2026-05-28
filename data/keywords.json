@@ -270,8 +270,10 @@
       "category": "HKJC分析",
       "angle": "疑問句型",
       "image_theme": "horse racing distance odds accuracy analysis",
-      "status": "available",
-      "writing_style": "量化分析，含距離分類數據，800字"
+      "status": "used",
+      "writing_style": "量化分析，含距離分類數據，800字",
+      "slug": "hkjc-distance-odds-accuracy",
+      "used_date": "2026-05-28"
     },
     {
       "id": 26,
