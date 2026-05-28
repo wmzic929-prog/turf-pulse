@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "hkjc-distance-odds-accuracy",
+      "title": "香港賽馬會賠率：不同距離賽事準確度分析",
+      "category": "HKJC分析",
+      "date": "2026-05-28",
+      "excerpt": "我一直都諗，馬會賠率到底幾時最準？尤其係啲短途、中長途，究竟有冇分別呢？",
+      "imageUrl": "/blog/img/hkjc-distance-odds-accuracy.jpg"
+    },
+    {
       "slug": "shatin-vs-happy-valley-upsets",
       "title": "沙田跑馬地邊個場多冷門？數據分析助你捕捉爆冷馬",
       "category": "場地分析",
@@ -15,14 +23,6 @@
       "date": "2026-05-28",
       "excerpt": "每次睇馬，你係咪都會諗，究竟邊個閘位先係贏馬嘅關鍵？今日我哋就嚟深入探討下！",
       "imageUrl": "/blog/img/hkjc-gate-position-win-rate-analysis.jpg"
-    },
-    {
-      "slug": "article-22",
-      "title": "香港騎師聯賽積分榜與勝率統計",
-      "category": "騎師統計",
-      "date": "2026-05-27",
-      "excerpt": "```json",
-      "imageUrl": "/blog/img/article-22.jpg"
     }
   ]
 }
