@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "hkjc-gate-position-win-rate-analysis",
+      "title": "香港馬場閘位勝率大解構：邊個閘位最著數？",
+      "category": "HKJC分析",
+      "date": "2026-05-28",
+      "excerpt": "每次睇馬，你係咪都會諗，究竟邊個閘位先係贏馬嘅關鍵？今日我哋就嚟深入探討下！",
+      "imageUrl": "/blog/img/hkjc-gate-position-win-rate-analysis.jpg"
+    },
+    {
       "slug": "article-22",
       "title": "香港騎師聯賽積分榜與勝率統計",
       "category": "騎師統計",
@@ -15,14 +23,6 @@
       "date": "2026-05-27",
       "excerpt": "每次沙田賽事，我都好想知邊個練馬師狀態最火熱，因為佢哋嘅表現真係直接影響我哋嘅投注決定！",
       "imageUrl": "/blog/img/sha-tin-trainer-recent-win-rate-ranking.jpg"
-    },
-    {
-      "slug": "hk-trainer-jockey-win-chance-analysis",
-      "title": "練馬師騎師組合點樣影響勝算？香港賽馬獨家分析",
-      "category": "騎師統計",
-      "date": "2026-05-27",
-      "excerpt": "每次睇跑馬，我都諗，練馬師同騎師嘅組合究竟有幾大影響力？想知點樣先可以捉到呢啲黃金拍檔？",
-      "imageUrl": "/blog/img/hk-trainer-jockey-win-chance-analysis.jpg"
     }
   ]
 }
