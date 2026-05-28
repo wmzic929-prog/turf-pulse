@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "shatin-vs-happy-valley-upsets",
+      "title": "沙田跑馬地邊個場多冷門？數據分析助你捕捉爆冷馬",
+      "category": "場地分析",
+      "date": "2026-05-28",
+      "excerpt": "每次買馬都想捉到隻冷門爆大冷？沙田同跑馬地，究竟邊個場地多啲驚喜？今日我哋就用數據講清講楚！",
+      "imageUrl": "/blog/img/shatin-vs-happy-valley-upsets.jpg"
+    },
+    {
       "slug": "hkjc-gate-position-win-rate-analysis",
       "title": "香港馬場閘位勝率大解構：邊個閘位最著數？",
       "category": "HKJC分析",
@@ -15,14 +23,6 @@
       "date": "2026-05-27",
       "excerpt": "```json",
       "imageUrl": "/blog/img/article-22.jpg"
-    },
-    {
-      "slug": "sha-tin-trainer-recent-win-rate-ranking",
-      "title": "沙田練馬師近期勝率排名：投注分析必讀攻略！",
-      "category": "騎師統計",
-      "date": "2026-05-27",
-      "excerpt": "每次沙田賽事，我都好想知邊個練馬師狀態最火熱，因為佢哋嘅表現真係直接影響我哋嘅投注決定！",
-      "imageUrl": "/blog/img/sha-tin-trainer-recent-win-rate-ranking.jpg"
     }
   ]
 }
