@@ -248,8 +248,10 @@
       "category": "HKJC分析",
       "angle": "疑問句型",
       "image_theme": "HKJC barrier draw win rate statistics",
-      "status": "available",
-      "writing_style": "統計分析，含閘位數據表，850字"
+      "status": "used",
+      "writing_style": "統計分析，含閘位數據表，850字",
+      "slug": "hkjc-gate-position-win-rate-analysis",
+      "used_date": "2026-05-28"
     },
     {
       "id": 24,
