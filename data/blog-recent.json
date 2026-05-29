@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "hkjc-open-handicap-race-difference-analysis",
+      "title": "香港賽馬會公開賽與讓賽制度的差異分析及賽事規則詳解",
+      "category": "undefined",
+      "date": "2026-05-29",
+      "excerpt": "每次睇香港賽馬，你係咪都分唔清公開賽同讓賽有咩分別？我以前都係咁，但深入研究後發現，了解佢哋嘅差異絕對係提升勝率嘅關鍵！",
+      "imageUrl": "https://pixabay.com/get/g43b05abeac68b6a80d4a05b0a132c9cc5c8add09eff2c2de827e8dc1a93298256e302a93f67e83f5df0032e3ef0b63a10e166bbcbb623e75faac345ce3bd63f7_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
@@ -15,14 +23,6 @@
       "date": "2026-05-29",
       "excerpt": "每次睇馬，我都好想知練馬師嘅勝率究竟點樣計出嚟？呢個數據對我哋揀馬真係好重要！",
       "imageUrl": "/blog/img/trainer-win-rate-calculation-hkjc.jpg"
-    },
-    {
-      "slug": "hong-kong-race-track-condition-rating-explained",
-      "title": "香港賽馬場地條件評級：點解咁重要？",
-      "category": "場地分析",
-      "date": "2026-05-29",
-      "excerpt": "每次睇香港賽馬，聽到「場地掛牌」我都會特別留神，因為呢個真係影響賽果嘅關鍵！",
-      "imageUrl": "/blog/img/hong-kong-race-track-condition-rating-explained.jpg"
     }
   ]
 }
