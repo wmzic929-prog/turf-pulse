@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "trainer-win-rate-calculation-hkjc",
+      "title": "練馬師勝率點計？拆解港馬表現關鍵數據",
+      "category": "騎師統計",
+      "date": "2026-05-29",
+      "excerpt": "每次睇馬，我都好想知練馬師嘅勝率究竟點樣計出嚟？呢個數據對我哋揀馬真係好重要！",
+      "imageUrl": "/blog/img/trainer-win-rate-calculation-hkjc.jpg"
+    },
+    {
       "slug": "hong-kong-race-track-condition-rating-explained",
       "title": "香港賽馬場地條件評級：點解咁重要？",
       "category": "場地分析",
@@ -15,14 +23,6 @@
       "date": "2026-05-28",
       "excerpt": "我一直都諗，馬會賠率到底幾時最準？尤其係啲短途、中長途，究竟有冇分別呢？",
       "imageUrl": "/blog/img/hkjc-distance-odds-accuracy.jpg"
-    },
-    {
-      "slug": "shatin-vs-happy-valley-upsets",
-      "title": "沙田跑馬地邊個場多冷門？數據分析助你捕捉爆冷馬",
-      "category": "場地分析",
-      "date": "2026-05-28",
-      "excerpt": "每次買馬都想捉到隻冷門爆大冷？沙田同跑馬地，究竟邊個場地多啲驚喜？今日我哋就用數據講清講楚！",
-      "imageUrl": "/blog/img/shatin-vs-happy-valley-upsets.jpg"
     }
   ]
 }
