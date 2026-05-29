@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-29",
+      "excerpt": "```json",
+      "imageUrl": "/blog/img/article.jpg"
+    },
+    {
       "slug": "trainer-win-rate-calculation-hkjc",
       "title": "練馬師勝率點計？拆解港馬表現關鍵數據",
       "category": "騎師統計",
@@ -15,14 +23,6 @@
       "date": "2026-05-29",
       "excerpt": "每次睇香港賽馬，聽到「場地掛牌」我都會特別留神，因為呢個真係影響賽果嘅關鍵！",
       "imageUrl": "/blog/img/hong-kong-race-track-condition-rating-explained.jpg"
-    },
-    {
-      "slug": "hkjc-distance-odds-accuracy",
-      "title": "香港賽馬會賠率：不同距離賽事準確度分析",
-      "category": "HKJC分析",
-      "date": "2026-05-28",
-      "excerpt": "我一直都諗，馬會賠率到底幾時最準？尤其係啲短途、中長途，究竟有冇分別呢？",
-      "imageUrl": "/blog/img/hkjc-distance-odds-accuracy.jpg"
     }
   ]
 }
