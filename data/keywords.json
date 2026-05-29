@@ -281,8 +281,10 @@
       "category": "場地分析",
       "angle": "疑問句型",
       "image_theme": "hong kong racing track going rating system",
-      "status": "available",
-      "writing_style": "官方系統解讀，750字"
+      "status": "used",
+      "writing_style": "官方系統解讀，750字",
+      "slug": "hong-kong-race-track-condition-rating-explained",
+      "used_date": "2026-05-29"
     },
     {
       "id": 27,
