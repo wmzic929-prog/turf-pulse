@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "hong-kong-race-track-condition-rating-explained",
+      "title": "香港賽馬場地條件評級：點解咁重要？",
+      "category": "場地分析",
+      "date": "2026-05-29",
+      "excerpt": "每次睇香港賽馬，聽到「場地掛牌」我都會特別留神，因為呢個真係影響賽果嘅關鍵！",
+      "imageUrl": "/blog/img/hong-kong-race-track-condition-rating-explained.jpg"
+    },
+    {
       "slug": "hkjc-distance-odds-accuracy",
       "title": "香港賽馬會賠率：不同距離賽事準確度分析",
       "category": "HKJC分析",
@@ -15,14 +23,6 @@
       "date": "2026-05-28",
       "excerpt": "每次買馬都想捉到隻冷門爆大冷？沙田同跑馬地，究竟邊個場地多啲驚喜？今日我哋就用數據講清講楚！",
       "imageUrl": "/blog/img/shatin-vs-happy-valley-upsets.jpg"
-    },
-    {
-      "slug": "hkjc-gate-position-win-rate-analysis",
-      "title": "香港馬場閘位勝率大解構：邊個閘位最著數？",
-      "category": "HKJC分析",
-      "date": "2026-05-28",
-      "excerpt": "每次睇馬，你係咪都會諗，究竟邊個閘位先係贏馬嘅關鍵？今日我哋就嚟深入探討下！",
-      "imageUrl": "/blog/img/hkjc-gate-position-win-rate-analysis.jpg"
     }
   ]
 }
