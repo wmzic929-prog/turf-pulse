@@ -314,8 +314,10 @@
       "category": "HKJC分析",
       "angle": "疑問句型",
       "image_theme": "HKJC handicap open race difference",
-      "status": "available",
-      "writing_style": "分類解釋，750字"
+      "status": "used",
+      "writing_style": "分類解釋，750字",
+      "slug": "hkjc-open-handicap-race-difference-analysis",
+      "used_date": "2026-05-29"
     },
     {
       "id": 30,
