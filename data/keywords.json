@@ -292,8 +292,10 @@
       "category": "騎師統計",
       "angle": "疑問句型",
       "image_theme": "trainer win rate current meeting calculation",
-      "status": "available",
-      "writing_style": "計算方法說明，800字"
+      "status": "used",
+      "writing_style": "計算方法說明，800字",
+      "slug": "trainer-win-rate-calculation-hkjc",
+      "used_date": "2026-05-29"
     },
     {
       "id": 28,
