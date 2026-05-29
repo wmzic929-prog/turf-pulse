@@ -303,8 +303,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "horse weight change race performance correlation",
-      "status": "available",
-      "writing_style": "統計關聯分析，850字"
+      "status": "used",
+      "writing_style": "統計關聯分析，850字",
+      "slug": "article",
+      "used_date": "2026-05-29"
     },
     {
       "id": 29,
