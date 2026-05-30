@@ -336,8 +336,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "horse form assessment key indicators",
-      "status": "available",
-      "writing_style": "框架性教學，含指標清單，850字"
+      "status": "used",
+      "writing_style": "框架性教學，含指標清單，850字",
+      "slug": "horse-form-analysis-key-indicators",
+      "used_date": "2026-05-30"
     },
     {
       "id": 32,
