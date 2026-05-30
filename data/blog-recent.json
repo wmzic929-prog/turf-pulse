@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "live-odds-big-players-signal-analysis",
+      "title": "即場大戶入場賠率信號的識別方法與市場行為分析",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "我哋馬迷最想知，究竟幾時先係大戶真正入場嘅時機？今日就同你揭開即場賠率嘅神秘面紗！",
+      "imageUrl": "/blog/img/live-odds-big-players-signal-analysis.jpg"
+    },
+    {
       "slug": "hkjc-open-handicap-race-difference-analysis",
       "title": "香港賽馬會公開賽與讓賽制度的差異分析及賽事規則詳解",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-29",
       "excerpt": "```json",
       "imageUrl": "/blog/img/article.jpg"
-    },
-    {
-      "slug": "trainer-win-rate-calculation-hkjc",
-      "title": "練馬師勝率點計？拆解港馬表現關鍵數據",
-      "category": "騎師統計",
-      "date": "2026-05-29",
-      "excerpt": "每次睇馬，我都好想知練馬師嘅勝率究竟點樣計出嚟？呢個數據對我哋揀馬真係好重要！",
-      "imageUrl": "/blog/img/trainer-win-rate-calculation-hkjc.jpg"
     }
   ]
 }
