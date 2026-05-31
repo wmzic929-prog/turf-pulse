@@ -380,8 +380,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "barrier trial results race performance prediction",
-      "status": "available",
-      "writing_style": "數據相關分析，850字"
+      "status": "used",
+      "writing_style": "數據相關分析，850字",
+      "slug": "trial-form-race-performance-analysis",
+      "used_date": "2026-05-31"
     },
     {
       "id": 36,
