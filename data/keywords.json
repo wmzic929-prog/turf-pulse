@@ -358,8 +358,10 @@
       "category": "騎師統計",
       "angle": "疑問句型",
       "image_theme": "trainer transfer horse performance effect",
-      "status": "available",
-      "writing_style": "統計分析，850字"
+      "status": "used",
+      "writing_style": "統計分析，850字",
+      "slug": "trainer-change-horse-performance-hkjc",
+      "used_date": "2026-05-31"
     },
     {
       "id": 34,
