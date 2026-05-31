@@ -369,8 +369,10 @@
       "category": "馬匹形態",
       "angle": "疑問句型",
       "image_theme": "horse racing equipment change blinkers effect",
-      "status": "available",
-      "writing_style": "技術細節分析，800字"
+      "status": "used",
+      "writing_style": "技術細節分析，800字",
+      "slug": "horse-equipment-change-impact-analysis",
+      "used_date": "2026-05-31"
     },
     {
       "id": 35,
