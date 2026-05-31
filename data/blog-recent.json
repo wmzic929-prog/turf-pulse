@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "trial-form-race-performance-analysis",
+      "title": "賽馬試閘成績與正賽表現的關聯性分析：數據能否有效預測出賽狀態",
+      "category": "賽馬分析",
+      "date": "2026-05-31",
+      "excerpt": "每次睇馬，我都會諗，試閘成績究竟有幾大參考價值？究竟係咪真係可以預示到馬匹嘅正賽表現呢？",
+      "imageUrl": "/blog/img/trial-form-race-performance-analysis.jpg"
+    },
+    {
       "slug": "horse-equipment-change-impact-analysis",
       "title": "馬匹配件更換對競賽表現的影響：眼罩與鼻帶的專業分析",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "我哋成日都講馬匹狀態，但原來練馬師嘅變動，對馬匹表現影響可以好大！今日就同大家拆解呢個幕後玄機。",
       "imageUrl": "/blog/img/trainer-change-horse-performance-hkjc.jpg"
-    },
-    {
-      "slug": "hong-kong-horse-racing-analysis-tools-review",
-      "title": "香港賽馬分析工具全面評測：免費與付費方案的功能差異與適用情境比較",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "每次睇跑馬，係咪都諗緊點樣可以提升中獎機會？我哋呢班馬迷，都想搵到個「神兵利器」幫手分析賽事，揀啱心水馬！",
-      "imageUrl": "/blog/img/hong-kong-horse-racing-analysis-tools-review.jpg"
     }
   ]
 }
