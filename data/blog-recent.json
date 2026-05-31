@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "horse-equipment-change-impact-analysis",
+      "title": "馬匹配件更換對競賽表現的影響：眼罩與鼻帶的專業分析",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "作為資深馬迷，我哋都知馬匹配件好關鍵！究竟換眼罩、鼻帶，對馬匹表現有幾大影響？呢個真係一門學問！",
+      "imageUrl": "/blog/img/horse-equipment-change-impact-analysis.jpg"
+    },
+    {
       "slug": "trainer-change-horse-performance-hkjc",
       "title": "練馬師轉換對馬匹競賽表現的影響：香港賽馬數據分析與研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "每次睇跑馬，係咪都諗緊點樣可以提升中獎機會？我哋呢班馬迷，都想搵到個「神兵利器」幫手分析賽事，揀啱心水馬！",
       "imageUrl": "/blog/img/hong-kong-horse-racing-analysis-tools-review.jpg"
-    },
-    {
-      "slug": "horse-form-analysis-key-indicators",
-      "title": "馬匹近況評估方法解析：影響競技表現的五大關鍵指標與判讀要點",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "我哋賭馬，最怕就係睇唔透隻馬嘅狀態，究竟點樣先可以掌握到佢嘅近況，提升勝算呢？",
-      "imageUrl": "/blog/img/horse-form-analysis-key-indicators.jpg"
     }
   ]
 }
