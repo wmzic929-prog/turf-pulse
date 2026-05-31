@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "trainer-change-horse-performance-hkjc",
+      "title": "練馬師轉換對馬匹競賽表現的影響：香港賽馬數據分析與研究",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "我哋成日都講馬匹狀態，但原來練馬師嘅變動，對馬匹表現影響可以好大！今日就同大家拆解呢個幕後玄機。",
+      "imageUrl": "/blog/img/trainer-change-horse-performance-hkjc.jpg"
+    },
+    {
       "slug": "hong-kong-horse-racing-analysis-tools-review",
       "title": "香港賽馬分析工具全面評測：免費與付費方案的功能差異與適用情境比較",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "我哋賭馬，最怕就係睇唔透隻馬嘅狀態，究竟點樣先可以掌握到佢嘅近況，提升勝算呢？",
       "imageUrl": "/blog/img/horse-form-analysis-key-indicators.jpg"
-    },
-    {
-      "slug": "live-odds-big-players-signal-analysis",
-      "title": "即場大戶入場賠率信號的識別方法與市場行為分析",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "我哋馬迷最想知，究竟幾時先係大戶真正入場嘅時機？今日就同你揭開即場賠率嘅神秘面紗！",
-      "imageUrl": "/blog/img/live-odds-big-players-signal-analysis.jpg"
     }
   ]
 }
