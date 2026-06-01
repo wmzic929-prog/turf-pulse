@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "horse-form-analysis-guide",
+      "title": "馬匹形態評估自學指南：系統分析體能指標與競技狀態的入門方法",
+      "category": "undefined",
+      "date": "2026-06-01",
+      "excerpt": "我哋馬迷最想知，究竟點樣可以一眼睇穿隻馬嘅真正狀態？今次我會教你一套實用嘅形態評估方法！",
+      "imageUrl": "/blog/img/horse-form-analysis-guide.jpg"
+    },
+    {
       "slug": "hkjc-horse-racing-technical-analysis-guide",
       "title": "香港賽馬會馬匹競技技術分析方法與數據研判完整入門指南",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "每次睇馬，我都會諗，試閘成績究竟有幾大參考價值？究竟係咪真係可以預示到馬匹嘅正賽表現呢？",
       "imageUrl": "/blog/img/trial-form-race-performance-analysis.jpg"
-    },
-    {
-      "slug": "horse-equipment-change-impact-analysis",
-      "title": "馬匹配件更換對競賽表現的影響：眼罩與鼻帶的專業分析",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "作為資深馬迷，我哋都知馬匹配件好關鍵！究竟換眼罩、鼻帶，對馬匹表現有幾大影響？呢個真係一門學問！",
-      "imageUrl": "/blog/img/horse-equipment-change-impact-analysis.jpg"
     }
   ]
 }
