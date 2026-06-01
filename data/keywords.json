@@ -391,8 +391,10 @@
       "category": "HKJC分析",
       "angle": "教學攻略型",
       "image_theme": "HKJC horse racing technical analysis beginner guide",
-      "status": "available",
-      "writing_style": "系統性教學，含評分框架，900字"
+      "status": "used",
+      "writing_style": "系統性教學，含評分框架，900字",
+      "slug": "hkjc-horse-racing-technical-analysis-guide",
+      "used_date": "2026-06-01"
     },
     {
       "id": 37,
