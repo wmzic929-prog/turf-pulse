@@ -402,8 +402,10 @@
       "category": "馬匹形態",
       "angle": "教學攻略型",
       "image_theme": "horse form self study guide tutorial",
-      "status": "available",
-      "writing_style": "學習路徑說明，850字"
+      "status": "used",
+      "writing_style": "學習路徑說明，850字",
+      "slug": "horse-form-analysis-guide",
+      "used_date": "2026-06-01"
     },
     {
       "id": 38,
