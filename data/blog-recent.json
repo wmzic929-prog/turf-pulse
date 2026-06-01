@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "hkjc-horse-racing-technical-analysis-guide",
+      "title": "香港賽馬會馬匹競技技術分析方法與數據研判完整入門指南",
+      "category": "undefined",
+      "date": "2026-06-01",
+      "excerpt": "每次入場睇馬，都想贏個盤滿缽滿，但點先可以做到？我發現，深入嘅技術分析係關鍵！",
+      "imageUrl": "/blog/img/hkjc-horse-racing-technical-analysis-guide.jpg"
+    },
+    {
       "slug": "trial-form-race-performance-analysis",
       "title": "賽馬試閘成績與正賽表現的關聯性分析：數據能否有效預測出賽狀態",
       "category": "賽馬分析",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "作為資深馬迷，我哋都知馬匹配件好關鍵！究竟換眼罩、鼻帶，對馬匹表現有幾大影響？呢個真係一門學問！",
       "imageUrl": "/blog/img/horse-equipment-change-impact-analysis.jpg"
-    },
-    {
-      "slug": "trainer-change-horse-performance-hkjc",
-      "title": "練馬師轉換對馬匹競賽表現的影響：香港賽馬數據分析與研究",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "我哋成日都講馬匹狀態，但原來練馬師嘅變動，對馬匹表現影響可以好大！今日就同大家拆解呢個幕後玄機。",
-      "imageUrl": "/blog/img/trainer-change-horse-performance-hkjc.jpg"
     }
   ]
 }
