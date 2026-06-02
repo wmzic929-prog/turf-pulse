@@ -413,8 +413,10 @@
       "category": "場地分析",
       "angle": "教學攻略型",
       "image_theme": "barrier draw analysis track layout",
-      "status": "available",
-      "writing_style": "技術教學，含閘位數據，800字"
+      "status": "used",
+      "writing_style": "技術教學，含閘位數據，800字",
+      "slug": "gate-advantage-track-analysis-hkjc",
+      "used_date": "2026-06-02"
     },
     {
       "id": 39,
@@ -422,8 +424,10 @@
       "category": "HKJC分析",
       "angle": "教學攻略型",
       "image_theme": "horse racing analysis worksheet tracking tutorial",
-      "status": "available",
-      "writing_style": "工具使用教學，800字"
+      "status": "used",
+      "writing_style": "工具使用教學，800字",
+      "slug": "horse-racing-data-analysis-guide",
+      "used_date": "2026-06-02"
     },
     {
       "id": 40,

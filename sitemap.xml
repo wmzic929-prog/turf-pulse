@@ -306,4 +306,20 @@
     <priority>0.7</priority>
   </url>
 
+
+  <url>
+    <loc>https://turf-pulse.com/blog/gate-advantage-track-analysis-hkjc</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+
+  <url>
+    <loc>https://turf-pulse.com/blog/horse-racing-data-analysis-guide</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
