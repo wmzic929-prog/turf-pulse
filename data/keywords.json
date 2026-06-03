@@ -435,8 +435,10 @@
       "category": "HKJC分析",
       "angle": "教學攻略型",
       "image_theme": "responsible gambling disclaimer horse racing",
-      "status": "available",
-      "writing_style": "合規聲明，教育性，700字"
+      "status": "used",
+      "writing_style": "合規聲明，教育性，700字",
+      "slug": "horse-racing-technical-analysis-risk-management",
+      "used_date": "2026-06-02"
     },
     {
       "id": 41,
@@ -444,8 +446,10 @@
       "category": "賽事預測",
       "angle": "時事賽事型",
       "image_theme": "Sha Tin new season preview notable horses",
-      "status": "available",
-      "writing_style": "賽季前瞻，1000字"
+      "status": "used",
+      "writing_style": "賽季前瞻，1000字",
+      "slug": "article",
+      "used_date": "2026-06-03"
     },
     {
       "id": 42,
@@ -453,8 +457,10 @@
       "category": "賽事預測",
       "angle": "時事賽事型",
       "image_theme": "hong kong derby odds analysis preview",
-      "status": "available",
-      "writing_style": "重點賽事前瞻，900字"
+      "status": "used",
+      "writing_style": "重點賽事前瞻，900字",
+      "slug": "hong-kong-derby-odds-analysis",
+      "used_date": "2026-06-03"
     },
     {
       "id": 43,

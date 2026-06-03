@@ -1,28 +1,28 @@
 {
   "articles": [
     {
-      "slug": "horse-racing-data-analysis-guide",
-      "title": "賽馬記錄分析工作表使用教學：數據整理方法與實戰操作指引",
+      "slug": "hong-kong-derby-odds-analysis",
+      "title": "香港打吡大賽賠率結構分析：主要競爭馬匹與投注市場走勢研究",
       "category": "undefined",
-      "date": "2026-06-02",
-      "excerpt": "我哋作為馬迷，最想就係喺馬場贏錢！今日就同大家分享點樣用分析工作表提升勝算。",
-      "imageUrl": "https://pixabay.com/get/g7a307170f4e5cc4a3dc2156645ad1a8ba6446d88097f339bd3731eeaf1cb68310ff308f8d796ccbfda59339d637b860837a560799da8399d65ebbaf92359ad8c_640.jpg"
+      "date": "2026-06-03",
+      "excerpt": "每次打吡，我心跳都加速！究竟點樣從賠率中睇穿玄機，捕捉到真正嘅黑馬？今日同你一齊研究！",
+      "imageUrl": "https://pixabay.com/get/g8d31eb32a1d83c2acd320f3c1e6314e5ae738730b83d01541e5e9b6df5172a196fc7ae66fd362248afe25df400a10c97bf170d453321aeabe030281dcc521095_640.jpg"
     },
     {
-      "slug": "gate-advantage-track-analysis-hkjc",
-      "title": "閘位優勢解析：不同賽道特性對馬匹起步表現的影響與策略運用",
-      "category": "賽馬分析",
-      "date": "2026-06-02",
-      "excerpt": "我哋馬迷最關注嘅，莫過於馬匹閘位對賽事嘅影響，究竟點樣睇先至可以贏面大啲？",
-      "imageUrl": "https://pixabay.com/get/gb5a68519470b69928f1ef9d6668674171ee65df069005adb9c1a871490d8b84772c014952f0147f27551c587e2a005a1_640.jpg"
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-06-03",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/gcffe2b9560ac4f7e4e0cdc7a4819b85e0a2eb3a22fd5645a3a15697a1f9bf55caa57906b9e4e0b3d00fb59ee71f345350423586432bb75ad17244ddf168c6669_640.jpg"
     },
     {
-      "slug": "horse-form-analysis-guide",
-      "title": "馬匹形態評估自學指南：系統分析體能指標與競技狀態的入門方法",
+      "slug": "horse-racing-technical-analysis-risk-management",
+      "title": "賽馬技術分析方法論與負責任娛樂框架：研究視角下的風險認知與免責原則",
       "category": "undefined",
-      "date": "2026-06-01",
-      "excerpt": "我哋馬迷最想知，究竟點樣可以一眼睇穿隻馬嘅真正狀態？今次我會教你一套實用嘅形態評估方法！",
-      "imageUrl": "/blog/img/horse-form-analysis-guide.jpg"
+      "date": "2026-06-02",
+      "excerpt": "作為資深馬迷，我深知賽馬技術分析的魅力，但更明白背後的風險管理同負責任態度係幾咁重要！",
+      "imageUrl": "https://pixabay.com/get/ga4b8e2d4ad556b6cb34b867be1c9b14f3a800becfa5a5f1fb3d9af926e27dfdfe9764679447d990254d1875676a421df9bb743c4e3e7ce2e1484be9e4a0572d1_640.jpg"
     }
   ]
 }

@@ -322,4 +322,28 @@
     <priority>0.7</priority>
   </url>
 
+
+  <url>
+    <loc>https://turf-pulse.com/blog/horse-racing-technical-analysis-risk-management</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+
+  <url>
+    <loc>https://turf-pulse.com/blog/article</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+
+  <url>
+    <loc>https://turf-pulse.com/blog/hong-kong-derby-odds-analysis</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
